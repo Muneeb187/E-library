@@ -1,7 +1,7 @@
 {
   "name": "e-library",
   "version": "1.0.0",
-  "description": "Personal Book Library with Node.js/Express backend and MongoDB",
+  "description": "Personal Book Library with Node.js/Express backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,7 +10,6 @@
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",
-    "mongoose": "^8.0.0",
     "dotenv": "^16.3.1"
   }
 }
