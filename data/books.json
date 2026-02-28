@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "fiction",
+    "isbn": "9780451524935",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+    "notes": "",
+    "borrowed": false,
+    "createdAt": "2026-02-28T05:08:10.246Z"
+  },
+  {
+    "id": "2",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "non-fiction",
+    "isbn": "9780062316097",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+    "notes": "",
+    "borrowed": false,
+    "createdAt": "2026-02-28T05:08:10.247Z"
+  },
+  {
+    "id": "3",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "science",
+    "isbn": "9780553380163",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg",
+    "notes": "",
+    "borrowed": false,
+    "createdAt": "2026-02-28T05:08:10.247Z"
+  },
+  {
+    "id": "4",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "technology",
+    "isbn": "9780132350884",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+    "notes": "",
+    "borrowed": false,
+    "createdAt": "2026-02-28T05:08:10.247Z"
+  },
+  {
+    "id": "5",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "non-fiction",
+    "isbn": "9780374533557",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780374533557-L.jpg",
+    "notes": "",
+    "borrowed": false,
+    "createdAt": "2026-02-28T05:08:10.247Z"
+  },
+  {
+    "id": "6",
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "category": "biography",
+    "isbn": "9781451648539",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781451648539-L.jpg",
+    "notes": "",
+    "borrowed": false,
+    "createdAt": "2026-02-28T05:08:10.247Z"
+  }
+]
